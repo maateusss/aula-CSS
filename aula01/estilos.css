@@ -1,0 +1,71 @@
+body
+
+{
+
+margin: 0;
+padding: 0;
+
+
+
+}
+
+
+
+h1
+
+
+{
+
+    background-color: rgb(118, 31, 200);
+    text-align: center;
+    padding: 20px;
+    margin: 0px;
+    color: rgb(255, 255, 255);
+    
+
+
+}
+
+
+
+div
+{
+
+border: 1px solid rgb(0, 0, 0);
+margin: 10px;
+padding: 10px;
+
+}
+
+h3
+{
+
+color: rgb(118, 31, 200);
+    
+}
+
+
+
+.black
+
+{
+
+color: rgb(0, 0, 0);
+
+}
+
+.negrito
+{
+    font-weight: bold;
+}
+
+.italico
+
+{
+    font-style: italic;
+}
+
+.sublinhado
+{
+    text-decoration: underline;
+}
