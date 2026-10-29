@@ -7,7 +7,7 @@ body
 h1
 {
     background-color: black;
-    color:rgb(2, 112, 202);
+    color:rgb(227, 173, 173);
     text-align: center;
     margin: 0;
     padding: 20px;
@@ -23,7 +23,7 @@ h1
 .subtitulo
 {
     font-size: 30px;
-    color: rgb(2, 112, 202);
+    color:rgb(227, 173, 173);
     font-weight: bold;
 }
 
@@ -124,5 +124,40 @@ h1
     width: 100px;
     height: 50px;
     text-align: center;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
 }
 
+.exercicio7
+{
+
+    height: 100vh;
+
+}
+
+.menu
+{
+
+    height: 50px;
+    display: flex;
+
+    background-color: bisque;
+    color: bisque;
+    font-size: 25px;
+
+    justify-content: space-around;
+
+
+}
+
+.opcoes
+{
+
+
+display: flex;
+
+
+}
